@@ -1,0 +1,273 @@
+{
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-11-22 12:25:54 -0300"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-11-22 12:25:46 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-11-22 12:25:11 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-11-22 12:25:45 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-11-22 12:20:39 -0300",
+      "has_wct": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-11-22 12:20:39 -0300",
+      "has_wct": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "exdeorum:core/string_mesh": {
+    "criteria": {
+      "has_string_mesh": "2025-11-22 12:25:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-11-22 12:25:11 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2025-11-22 12:25:45 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-11-22 12:20:39 -0300",
+      "has_wpt": "2025-11-22 12:20:39 -0300",
+      "has_wct": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-11-22 12:25:44 -0300"
+    },
+    "done": true
+  },
+  "exmachinis:root": {
+    "criteria": {
+      "item": "2025-11-22 12:25:47 -0300"
+    },
+    "done": true
+  },
+  "constructionstick:root": {
+    "criteria": {
+      "stick": "2025-11-22 12:25:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-11-22 12:25:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-11-22 12:35:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-11-22 12:35:19 -0300"
+    },
+    "done": false
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "exdeorum:core/barrel": {
+    "criteria": {
+      "has_barrel": "2025-11-22 12:25:11 -0300"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-11-22 12:25:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-11-22 12:35:19 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-11-22 12:24:04 -0300",
+      "minecraft:plains": "2025-11-22 12:20:40 -0300"
+    },
+    "done": false
+  },
+  "actuallyadditions:pickup_coffee": {
+    "criteria": {
+      "coffee_beans": "2025-11-22 12:36:44 -0300"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-11-22 12:37:38 -0300"
+    },
+    "done": false
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-11-22 12:20:39 -0300",
+      "has_wpt": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-22 12:37:38 -0300"
+    },
+    "done": true
+  },
+  "exdeorum:core/root": {
+    "criteria": {
+      "in_void_world": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "exdeorum:core/silk_worm": {
+    "criteria": {
+      "has_silk_worm": "2025-11-22 12:25:11 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-11-22 12:25:49 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-11-22 12:20:39 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-11-22 12:25:45 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

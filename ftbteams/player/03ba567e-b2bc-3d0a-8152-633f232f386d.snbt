@@ -2,13 +2,11 @@
 	id: "03ba567e-b2bc-3d0a-8152-633f232f386d"
 	type: "player"
 	player_name: "Jovem_DeusXD1"
-	ranks: {
-		03ba567e-b2bc-3d0a-8152-633f232f386d: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Jovem_DeusXD1"
 		"ftbteams:description": ""
-		"ftbteams:color": "#F5FF59"
+		"ftbteams:color": "#FF59D3"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b

@@ -2,13 +2,11 @@
 	id: "948fd160-ad50-342f-8880-80919e67fffb"
 	type: "player"
 	player_name: "FR4N"
-	ranks: {
-		948fd160-ad50-342f-8880-80919e67fffb: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "FR4N"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FFDC59"
+		"ftbteams:color": "#FF5978"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
