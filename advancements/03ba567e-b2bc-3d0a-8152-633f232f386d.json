@@ -432,6 +432,18 @@
     },
     "done": true
   },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-11-25 13:42:11 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2025-11-25 13:45:35 -0300"
+    },
+    "done": true
+  },
   "ae2:main/network1": {
     "criteria": {
       "cable": "2025-11-25 14:32:33 -0300"
@@ -444,15 +456,58 @@
     },
     "done": true
   },
-  "ae2:main/glass_cable": {
+  "create:encased_fan": {
     "criteria": {
-      "certus": "2025-11-25 13:42:11 -0300"
+      "0": "2025-11-26 02:09:04 -0300"
     },
     "done": true
   },
-  "ae2:main/pattern_encoding_terminal": {
+  "create:water_wheel": {
     "criteria": {
-      "certus": "2025-11-25 13:45:35 -0300"
+      "0": "2025-11-26 02:09:04 -0300"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-11-26 01:11:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-11-26 01:44:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-11-26 01:08:13 -0300"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-11-26 02:02:30 -0300",
+      "1": "2025-11-26 02:06:48 -0300"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-11-26 02:02:31 -0300"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-11-26 01:58:44 -0300"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-11-26 02:10:11 -0300"
     },
     "done": true
   },

@@ -296,10 +296,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-11-25 23:36:29 -0300",
       "minecraft:enderman": "2025-11-22 01:12:39 -0300",
       "minecraft:spider": "2025-11-22 01:10:06 -0300",
+      "minecraft:wither_skeleton": "2025-11-25 23:02:19 -0300",
       "minecraft:zombie": "2025-11-22 01:10:10 -0300",
       "minecraft:creeper": "2025-11-22 01:10:19 -0300",
+      "minecraft:wither": "2025-11-25 23:13:18 -0300",
       "minecraft:zombie_villager": "2025-11-24 13:16:47 -0300"
     },
     "done": false
@@ -330,6 +333,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2025-11-25 23:12:51 -0300",
       "cooked_beef": "2025-11-22 01:20:36 -0300",
       "carrot": "2025-11-22 01:29:29 -0300"
     },
@@ -355,6 +359,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-11-26 00:15:49 -0300",
       "pumpkin": "2025-11-22 01:28:45 -0300"
     },
     "done": false
@@ -503,6 +508,165 @@
   "create:millstone": {
     "criteria": {
       "0": "2025-11-24 13:24:13 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-11-25 23:14:52 -0300"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-11-25 23:35:31 -0300"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-11-25 23:35:31 -0300"
+    },
+    "done": false
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2025-11-25 23:35:32 -0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-11-25 23:01:45 -0300",
+      "minecraft:nether_wastes": "2025-11-25 22:58:27 -0300",
+      "minecraft:warped_forest": "2025-11-25 23:01:36 -0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-11-25 22:58:26 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/qnb": {
+    "criteria": {
+      "certus": "2025-11-25 22:48:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-11-25 23:05:29 -0300"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2025-11-25 23:35:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-11-25 22:58:26 -0300"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2025-11-26 01:11:57 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "kill_wither": "2025-11-25 23:13:18 -0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-11-25 23:36:31 -0300"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2025-11-26 00:56:22 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_legs": "2025-11-26 00:16:22 -0300",
+      "uncommon_chest": "2025-11-26 00:16:21 -0300",
+      "uncommon_hand": "2025-11-26 00:16:20 -0300",
+      "uncommon_feet": "2025-11-26 00:16:21 -0300"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-11-25 23:06:25 -0300"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-11-25 22:58:26 -0300"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-11-26 01:11:57 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2025-11-26 00:18:26 -0300"
+    },
+    "done": true
+  },
+  "mekanism:machine_security": {
+    "criteria": {
+      "security_desk": "2025-11-26 01:11:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-11-25 23:12:21 -0300"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-11-26 01:11:57 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_helm": "2025-11-26 00:16:21 -0300",
+      "common_hand": "2025-11-26 00:16:20 -0300",
+      "common_chest": "2025-11-26 00:16:21 -0300",
+      "common_legs": "2025-11-26 00:16:22 -0300",
+      "common_feet": "2025-11-26 00:16:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-11-25 23:02:05 -0300"
+    },
+    "done": true
+  },
+  "exmachinis:flux_hammer": {
+    "criteria": {
+      "has_flux_hammer": "2025-11-25 22:35:31 -0300"
     },
     "done": true
   },
