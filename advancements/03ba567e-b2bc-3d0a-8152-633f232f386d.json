@@ -456,15 +456,9 @@
     },
     "done": true
   },
-  "create:encased_fan": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "0": "2025-11-26 02:09:04 -0300"
-    },
-    "done": true
-  },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2025-11-26 02:09:04 -0300"
+      "blaze_rod": "2025-11-26 01:08:13 -0300"
     },
     "done": true
   },
@@ -480,9 +474,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "create:rose_quartz": {
     "criteria": {
-      "blaze_rod": "2025-11-26 01:08:13 -0300"
+      "0": "2025-11-26 01:58:44 -0300"
     },
     "done": true
   },
@@ -499,15 +493,27 @@
     },
     "done": true
   },
-  "create:rose_quartz": {
+  "create:encased_fan": {
     "criteria": {
-      "0": "2025-11-26 01:58:44 -0300"
+      "0": "2025-11-26 02:09:04 -0300"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-11-26 02:09:04 -0300"
     },
     "done": true
   },
   "create:fan_processing": {
     "criteria": {
       "0": "2025-11-26 02:10:11 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-11-26 23:28:41 -0300"
     },
     "done": true
   },
