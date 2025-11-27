@@ -133,6 +133,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-11-21 23:50:36 -0300",
+      "minecraft:savanna": "2025-11-27 02:26:26 -0300",
       "minecraft:plains": "2025-11-21 23:49:35 -0300"
     },
     "done": false
@@ -514,6 +515,12 @@
   "ae2:main/controller": {
     "criteria": {
       "certus": "2025-11-26 23:28:41 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/recursive": {
+    "criteria": {
+      "recursive": "2025-11-27 02:09:44 -0300"
     },
     "done": true
   },
