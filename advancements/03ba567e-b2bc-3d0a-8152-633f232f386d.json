@@ -305,6 +305,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-11-28 15:39:20 -0300",
       "minecraft:skeleton": "2025-11-22 13:33:06 -0300",
       "minecraft:phantom": "2025-11-24 01:47:15 -0300"
     },
@@ -521,6 +522,12 @@
   "ae2:main/recursive": {
     "criteria": {
       "recursive": "2025-11-27 02:09:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-11-28 15:39:20 -0300"
     },
     "done": true
   },
