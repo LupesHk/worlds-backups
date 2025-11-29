@@ -300,6 +300,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-11-25 23:36:29 -0300",
+      "minecraft:piglin": "2025-11-29 00:52:44 -0300",
       "minecraft:enderman": "2025-11-22 01:12:39 -0300",
       "minecraft:spider": "2025-11-22 01:10:06 -0300",
       "minecraft:wither_skeleton": "2025-11-25 23:02:19 -0300",
@@ -578,7 +579,9 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
-      "kill_wither": "2025-11-25 23:13:18 -0300"
+      "kill_wither": "2025-11-25 23:13:18 -0300",
+      "rare_chest": "2025-11-29 00:52:47 -0300",
+      "rare_hand": "2025-11-29 00:52:47 -0300"
     },
     "done": false
   },
@@ -602,9 +605,10 @@
   },
   "silentgear:nether_plants": {
     "criteria": {
+      "banana": "2025-11-29 00:53:57 -0300",
       "sapling": "2025-11-25 23:35:32 -0300"
     },
-    "done": false
+    "done": true
   },
   "pneumaticcraft:root": {
     "criteria": {
@@ -622,6 +626,7 @@
     "criteria": {
       "uncommon_legs": "2025-11-26 00:16:22 -0300",
       "uncommon_chest": "2025-11-26 00:16:21 -0300",
+      "kill_apothic_invader": "2025-11-29 00:52:44 -0300",
       "uncommon_hand": "2025-11-26 00:16:20 -0300",
       "uncommon_feet": "2025-11-26 00:16:21 -0300"
     },
@@ -703,9 +708,9 @@
     },
     "done": true
   },
-  "occultism:chalks/purple": {
+  "occultism:chalks/white": {
     "criteria": {
-      "chalk_purple": "2025-11-28 15:17:56 -0300"
+      "chalk_white": "2025-11-28 15:02:53 -0300"
     },
     "done": true
   },
@@ -715,27 +720,15 @@
     },
     "done": true
   },
-  "occultism:chalks/light_gray": {
+  "occultism:chalks/purple": {
     "criteria": {
-      "chalk_light_gray": "2025-11-28 16:02:50 -0300"
+      "chalk_purple": "2025-11-28 15:17:56 -0300"
     },
     "done": true
   },
-  "occultism:chalks/white": {
+  "actuallyadditions:craft_reconstructor": {
     "criteria": {
-      "chalk_white": "2025-11-28 15:02:53 -0300"
-    },
-    "done": true
-  },
-  "occultism:chalks/yellow": {
-    "criteria": {
-      "chalk_gold": "2025-11-28 16:02:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-11-28 15:53:29 -0300"
+      "atomic_reconstructor": "2025-11-28 15:30:38 -0300"
     },
     "done": true
   },
@@ -745,9 +738,45 @@
     },
     "done": true
   },
-  "actuallyadditions:craft_reconstructor": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "atomic_reconstructor": "2025-11-28 15:30:38 -0300"
+      "traded": "2025-11-28 15:53:29 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/yellow": {
+    "criteria": {
+      "chalk_gold": "2025-11-28 16:02:06 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/light_gray": {
+    "criteria": {
+      "chalk_light_gray": "2025-11-28 16:02:50 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/lime": {
+    "criteria": {
+      "chalk_lime": "2025-11-29 00:31:54 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:modifier": {
+    "criteria": {
+      "modifier": "2025-11-29 01:01:08 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_research_fragment_dust": {
+    "criteria": {
+      "craft_research_fragment_dust": "2025-11-29 00:28:32 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:light": {
+    "criteria": {
+      "modifier": "2025-11-29 01:01:08 -0300"
     },
     "done": true
   },

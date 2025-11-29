@@ -531,5 +531,17 @@
     },
     "done": true
   },
+  "ae2:main/ioport": {
+    "criteria": {
+      "certus": "2025-11-29 01:18:55 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-11-29 02:23:59 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

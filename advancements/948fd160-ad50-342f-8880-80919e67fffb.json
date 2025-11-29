@@ -389,6 +389,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-11-24 03:16:05 -0300",
+      "sweet_berries": "2025-11-28 02:08:21 -0300",
       "melon": "2025-11-25 23:24:45 -0300"
     },
     "done": false
@@ -592,6 +593,24 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-11-27 00:38:58 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-11-28 00:55:19 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-11-28 01:41:40 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-11-29 02:23:59 -0300"
     },
     "done": true
   },
