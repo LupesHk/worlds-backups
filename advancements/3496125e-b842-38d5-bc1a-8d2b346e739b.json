@@ -300,6 +300,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-11-25 23:36:29 -0300",
+      "minecraft:skeleton": "2025-11-30 13:12:18 -0300",
       "minecraft:piglin": "2025-11-29 00:52:44 -0300",
       "minecraft:enderman": "2025-11-22 01:12:39 -0300",
       "minecraft:spider": "2025-11-22 01:10:06 -0300",
@@ -307,7 +308,8 @@
       "minecraft:zombie": "2025-11-22 01:10:10 -0300",
       "minecraft:creeper": "2025-11-22 01:10:19 -0300",
       "minecraft:wither": "2025-11-25 23:13:18 -0300",
-      "minecraft:zombie_villager": "2025-11-24 13:16:47 -0300"
+      "minecraft:zombie_villager": "2025-11-24 13:16:47 -0300",
+      "minecraft:slime": "2025-11-30 13:13:08 -0300"
     },
     "done": false
   },
@@ -549,9 +551,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-11-25 23:01:45 -0300",
       "minecraft:nether_wastes": "2025-11-25 22:58:27 -0300",
-      "minecraft:warped_forest": "2025-11-25 23:01:36 -0300"
+      "minecraft:soul_sand_valley": "2025-11-30 14:46:23 -0300",
+      "minecraft:warped_forest": "2025-11-25 23:01:36 -0300",
+      "minecraft:basalt_deltas": "2025-11-30 14:43:23 -0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -756,6 +760,12 @@
     },
     "done": true
   },
+  "occultism:occultism/craft_research_fragment_dust": {
+    "criteria": {
+      "craft_research_fragment_dust": "2025-11-29 00:28:32 -0300"
+    },
+    "done": true
+  },
   "occultism:chalks/lime": {
     "criteria": {
       "chalk_lime": "2025-11-29 00:31:54 -0300"
@@ -768,15 +778,57 @@
     },
     "done": true
   },
-  "occultism:occultism/craft_research_fragment_dust": {
-    "criteria": {
-      "craft_research_fragment_dust": "2025-11-29 00:28:32 -0300"
-    },
-    "done": true
-  },
   "apothic_spawners:light": {
     "criteria": {
       "modifier": "2025-11-29 01:01:08 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:noai": {
+    "criteria": {
+      "modifier": "2025-11-30 13:39:55 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:mindelay": {
+    "criteria": {
+      "modifier": "2025-11-30 13:39:37 -0300"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-11-30 14:44:50 -0300"
+    },
+    "done": false
+  },
+  "occultism:occultism/craft_dimensional_mineshaft": {
+    "criteria": {
+      "craft_dimensional_mineshaft": "2025-11-30 12:44:32 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:nearbyents": {
+    "criteria": {
+      "modifier": "2025-11-30 13:41:33 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_gray_paste": {
+    "criteria": {
+      "craft_gray_paste": "2025-11-30 13:31:59 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:maxdelay": {
+    "criteria": {
+      "modifier": "2025-11-30 13:40:50 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_miner_djinni_ores": {
+    "criteria": {
+      "craft_miner_djinni_ores": "2025-11-30 13:02:19 -0300"
     },
     "done": true
   },

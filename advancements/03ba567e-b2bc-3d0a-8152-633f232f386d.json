@@ -307,7 +307,8 @@
     "criteria": {
       "minecraft:pillager": "2025-11-28 15:39:20 -0300",
       "minecraft:skeleton": "2025-11-22 13:33:06 -0300",
-      "minecraft:phantom": "2025-11-24 01:47:15 -0300"
+      "minecraft:phantom": "2025-11-24 01:47:15 -0300",
+      "minecraft:wither_skeleton": "2025-11-30 12:31:36 -0300"
     },
     "done": false
   },
