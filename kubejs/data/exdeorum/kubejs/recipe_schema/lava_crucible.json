@@ -1,0 +1,14 @@
+{
+  "keys": [
+    {
+      "name": "ingredient",
+      "type": "non_empty_ingredient",
+      "role": "input"
+    },
+    {
+      "name": "fluid",
+      "role": "output",
+      "type": "fluid_stack"
+    }
+  ]
+}

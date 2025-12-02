@@ -1,0 +1,34 @@
+# IGNORAR PASTAS PESADAS
+mods/
+libraries/
+config/**/cache/
+config/**/tmp/
+git/
+
+
+# IGNORAR ARQUIVOS GERADOS
+logs/
+crash-reports/
+backups/
+*.log
+*.lck
+*.tmp
+*.old
+*.bat.save
+
+# IGNORAR PLAYIT
+playit.log
+playit-update/
+
+# IGNORAR JAVA LIXO
+hs_err_pid*.log
+replay_pid*.log
+
+# IGNORAR ZIP DE BACKUP
+world.zip
+
+# IGNORAR CONFIGURACOES QUE PODEM REGERAR
+usercache.json
+usernamecache.json
+*.bat
+passwords.txt

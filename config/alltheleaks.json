@@ -1,0 +1,10 @@
+{
+  "ingredientDedupe": false,
+  "debugItemStackModifications": false,
+  "version": 1,
+  "debugNativeImage": false,
+  "disableSearchTree": false,
+  "logIntervalInMinutes": 10,
+  "showSummaryOnDebugScreen": true,
+  "memoryUsageWarningPercentage": 90
+}
