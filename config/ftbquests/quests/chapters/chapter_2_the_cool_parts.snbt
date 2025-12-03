@@ -1979,7 +1979,7 @@
 				{
 					count: 8L
 					id: "290D9EBBD6EB7242"
-					item: { count: 8, id: "mysticalagriculture:infusion_pedestal" }
+					item: { count: 1, id: "mysticalagriculture:infusion_pedestal" }
 					type: "item"
 				}
 			]

@@ -41,7 +41,7 @@
 			y: 8.9d
 		}
 	]
-	order_index: 16
+	order_index: 17
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

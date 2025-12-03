@@ -9,6 +9,8 @@ logs/
 crash-reports/
 backups/
 simplebackups/
+simplebackups/world
+simplebackups\world
 *.log
 
 # IGNORAR PLAYIT

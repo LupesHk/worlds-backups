@@ -2559,7 +2559,7 @@
 				{
 					count: 33L
 					id: "16BF380980B2DE0C"
-					item: { count: 33, id: "mekanism:thermal_evaporation_block" }
+					item: { count: 1, id: "mekanism:thermal_evaporation_block" }
 					type: "item"
 				}
 				{
@@ -2570,7 +2570,7 @@
 				{
 					count: 2L
 					id: "10105D951F3248A7"
-					item: { count: 2, id: "mekanism:thermal_evaporation_valve" }
+					item: { count: 1, id: "mekanism:thermal_evaporation_valve" }
 					type: "item"
 				}
 				{
@@ -2663,7 +2663,7 @@
 				{
 					count: 33L
 					id: "16C70D3717B4AFA6"
-					item: { count: 33, id: "mekanism:thermal_evaporation_block" }
+					item: { count: 1, id: "mekanism:thermal_evaporation_block" }
 					type: "item"
 				}
 				{
@@ -2966,7 +2966,7 @@
 				{
 					count: 33L
 					id: "2CC21EF452CFFF59"
-					item: { count: 33, id: "mekanism:thermal_evaporation_block" }
+					item: { count: 1, id: "mekanism:thermal_evaporation_block" }
 					type: "item"
 				}
 				{
@@ -2977,7 +2977,7 @@
 				{
 					count: 2L
 					id: "41E94425E789750E"
-					item: { count: 2, id: "mekanism:thermal_evaporation_valve" }
+					item: { count: 1, id: "mekanism:thermal_evaporation_valve" }
 					type: "item"
 				}
 				{
