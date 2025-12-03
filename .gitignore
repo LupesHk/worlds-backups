@@ -1,8 +1,6 @@
 # IGNORAR PASTAS PESADAS
 mods/
 libraries/
-config/**/cache/
-config/**/tmp/
 git/
 
 
@@ -10,11 +8,8 @@ git/
 logs/
 crash-reports/
 backups/
+simplebackups/
 *.log
-*.lck
-*.tmp
-*.old
-*.bat.save
 
 # IGNORAR PLAYIT
 playit.log
@@ -26,9 +21,4 @@ replay_pid*.log
 
 # IGNORAR ZIP DE BACKUP
 world.zip
-
-# IGNORAR CONFIGURACOES QUE PODEM REGERAR
-usercache.json
-usernamecache.json
-*.bat
-passwords.txt
+password.env
