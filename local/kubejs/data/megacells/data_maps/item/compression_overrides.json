@@ -1,0 +1,10 @@
+{
+  "values": {
+    "oritech:biosteel_ingot": {
+      "variant": "NONE"
+    },
+    "alltheores:steel_nugget": {
+      "variant": "alltheores:steel_ingot"
+    }
+  }
+}
