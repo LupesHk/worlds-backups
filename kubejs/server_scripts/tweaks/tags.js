@@ -35,7 +35,10 @@ ServerEvents.tags("block", (allthemods) => {
     "geore:budding_emerald",
     "geore:budding_sapphire",
     "geore:budding_zinc",
-    "geore:budding_topaz"
+    "geore:budding_topaz",
+    "geore:budding_allthemodium",
+    "geore:budding_vibranium",
+    "geore:budding_unobtainium"
   ])
 
   //Entangled
@@ -283,6 +286,16 @@ ServerEvents.tags("item", (allthemods) => {
   ])
 
   allthemods.add("c:sawdust", "exdeorum:wood_chippings")
+
+  // Allow additional Ars Elemental armors to be used for Allthemodium Arcanist Gear
+
+  allthemods.add("allthearcanistgear:elemental_hat", [/ars_elemental:.*_helmet/, /ars_elemental:.*_hood/])
+
+  allthemods.add("allthearcanistgear:elemental_chest", [/ars_elemental:.*_chestplate/, /ars_elemental:.*_tunic/])
+
+  allthemods.add("allthearcanistgear:elemental_legs", [/ars_elemental:.*_leggings_heavy/, /ars_elemental:.*_pants/])
+
+  allthemods.add("allthearcanistgear:elemental_boots", [/ars_elemental:.*_boots_heavy/, /ars_elemental:.*_shoes/])
 
   // For crushing recipes
   allthemods.add("c:deepslate_blocks", ["minecraft:deepslate", "minecraft:cobbled_deepslate"])

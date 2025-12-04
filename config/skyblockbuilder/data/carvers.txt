@@ -1,4 +1,3 @@
-ars_elemental:vexing_cave_carver
 minecraft:canyon
 minecraft:cave
 minecraft:cave_extra_underground

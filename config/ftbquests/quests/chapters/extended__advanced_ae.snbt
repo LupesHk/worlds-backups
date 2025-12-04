@@ -445,11 +445,18 @@
 					xp_levels: 3
 				}
 			]
-			tasks: [{
-				id: "7BE7E513F11A3C35"
-				item: { count: 1, id: "advanced_ae:quantum_unit" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "7BE7E513F11A3C35"
+					item: { count: 1, id: "advanced_ae:quantum_unit" }
+					type: "item"
+				}
+				{
+					id: "28606A1006653E24"
+					item: { count: 1, id: "advanced_ae:quantum_structure" }
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: 5.0d
 		}

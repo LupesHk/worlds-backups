@@ -255,7 +255,7 @@
 			y: 5.0d
 		}
 	]
-	order_index: 16
+	order_index: 15
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -2020,3 +2020,4 @@
 		}
 	]
 }
+

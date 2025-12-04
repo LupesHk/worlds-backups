@@ -187,7 +187,7 @@
 	quest.66A450CAC07232E1.quest_subtitle: "Heat"
 	quest.66A450CAC07232E1.title: "&6Thermodynamic Conductors"
 	quest.67E7A9A65B14C933.quest_desc: [
-		"We got &7Ore Clumps&r? What do we do with a &7Clump&r, we wanted &7Ingots&r! \\n\\nTo start, &4Crush &feach &7Clump&f to get 2 &7Dirty Ore Dust&r. \\n\\nWe can't &6Smelt &7Dirty Dust&r, it'll ruin the Furnace! So we'll need to &dEnrich&r them to get our regular &7Dust&r. \\n\\nAnd like usual, &6Smelt &fthe &7Dust &fto get &7Ingots&r."
+		"We got &7Ore Clumps&r? What do we do with a &7Clump&r, we wanted &7Ingots&r! \\n\\nTo start, &4Crush &feach &7Clump&f to get 1 &7Dirty Ore Dust&r. \\n\\nWe can't &6Smelt &7Dirty Dust&r, it'll ruin the Furnace! So we'll need to &dEnrich&r them to get our regular &7Dust&r. \\n\\nAnd like usual, &6Smelt &fthe &7Dust &fto get &7Ingots&r."
 		"{image:atm:textures/questpics/mek/mek_tier2_2.png width:250 height:50 align:center}"
 	]
 	quest.67E7A9A65B14C933.quest_subtitle: "Tier 2 Ore Processing"
@@ -197,7 +197,7 @@
 	quest.6CD1720B76F47806.quest_desc: ["The &2&lBio-Generator&r works by taking &2Bio Fuel&r, making &2Bioethanol&r, and using that for &aEnergy&r! \\n\\nThis &2&lGenerator&r has been heavily nerfed though, so it is recommened to not use it! \\n\\nThat is because you buttheads keep making massive &aMelon Farms&r that eat Servers TPS!"]
 	quest.6CD1720B76F47806.title: "&2&lBio-Generator"
 	quest.6DC1E08D019FD543.quest_desc: [
-		"Our &7Crystals&r will need even more &lProcessing&r! \\n\\nRepeat the previous steps of making a &6&lThermal Evaporation Plant&r to create &eBrine&r. \\n\\nUse an &9&lElectrolytic Separator&r to Separate the &eChlorine &ffrom the &eBrine&r. \\n\\nThen get &7Hydrogen&r from putting &9Water &finto an &9&lElectrolytic Separator&r. \\n\\nCombine the &eChlorine &fand &7Hydrogen &fin a &a&lChemical Infuser&r to get &3Hydrogen Chloride&r! \\n\\nWith our &c&lChemical Injector&r, we can &cInject &fthe &7Crystals&f with &3Hydrogen Chloride&r to get 2 &7Ore Shards&r from each &7Ore Crystal&r."
+		"Our &7Crystals&r will need even more &lProcessing&r! \\n\\nRepeat the previous steps of making a &6&lThermal Evaporation Plant&r to create &eBrine&r. \\n\\nUse an &9&lElectrolytic Separator&r to Separate the &eChlorine &ffrom the &eBrine&r. \\n\\nThen get &7Hydrogen&r from putting &9Water &finto an &9&lElectrolytic Separator&r. \\n\\nCombine the &eChlorine &fand &7Hydrogen &fin a &a&lChemical Infuser&r to get &3Hydrogen Chloride&r! \\n\\nWith our &c&lChemical Injector&r, we can &cInject &fthe &7Crystals&f with &3Hydrogen Chloride&r to get 1 &7Ore Shard&r from each &7Ore Crystal&r."
 		"{image:atm:textures/questpics/mek/mek_tier4_3.png width:250 height:100 align:center}"
 	]
 	quest.6DC1E08D019FD543.quest_subtitle: "Tier 4 Ore Processing"
@@ -243,7 +243,7 @@
 	quest.7778937DF377C1B4.quest_subtitle: "Generates Power from the Wind"
 	quest.7778937DF377C1B4.title: "&b&lWind Generator"
 	quest.77FB313845779AED.quest_desc: [
-		"Now use another &a&lChemical Infuser&r to &a&lInfuse&r our Water Vapor and &cSulfur Trioxide&r. Now we have our &aSulfuric Acid&r! \\n\\nPipe the &aSulfuric Acid&r into a &3&lC.D.C.&r to &3Melt&r down our &7Ores &fwith &aAcid&r. This will give us &7Dirty Ore Slurry&r, a &cChemical&r form of &7Ores&r. \\n\\n3 &7Raw Ore&r will give 2 Buckets of &7Ore Slurry&r and 1 &7Ore Block&r will give 1 Bucket of &7Ore Slurry&r. \\n\\nWe can't go around with &7Dirty Ore Slurry&r, it's embarrassing! We'll need to clean it! Start up a &a&lChemical Washer&r and put some &9Water&r (and laundry detergent) into it. \\n\\nEvery 5mb of &7Dirty Slurry&r will be turned into 3mb of &7Ore Slurry&r. \\n\\nNow that our &7Slurry&r is all clean, we can put it into a &5&lChemical Crystallizer&r. This will give us &7Ore Crystals&r! Yes, different from &7Shards &fand &7Clumps&r. Each 200mb of &7Ore Slurry&r is equal to 1 &7Crystal&r."
+		"Now use another &a&lChemical Infuser&r to &a&lInfuse&r our Water Vapor and &cSulfur Trioxide&r. Now we have our &aSulfuric Acid&r! \\n\\nPipe the &aSulfuric Acid&r into a &3&lC.D.C.&r to &3Melt&r down our &7Ores &fwith &aAcid&r. This will give us &7Dirty Ore Slurry&r, a &cChemical&r form of &7Ores&r. \\n\\n3 &7Raw Ore&r will give 2 Buckets of &7Ore Slurry&r and 1 &7Ore Block&r will give 1 Bucket of &7Ore Slurry&r. \\n\\nWe can't go around with &7Dirty Ore Slurry&r, it's embarrassing! We'll need to clean it! Start up a &a&lChemical Washer&r and put some &9Water&r (and laundry detergent) into it. \\n\\nEvery 1mb of &7Dirty Slurry&r will be turned into 1mb of &7Ore Slurry&r. \\n\\nNow that our &7Slurry&r is all clean, we can put it into a &5&lChemical Crystallizer&r. This will give us &7Ore Crystals&r! Yes, different from &7Shards &fand &7Clumps&r. Each 200mb of &7Ore Slurry&r is equal to 1 &7Crystal&r."
 		"{image:atm:textures/questpics/mek/mek_tier4_2.png width:300 height:50 align:center}"
 	]
 	quest.77FB313845779AED.quest_subtitle: "Tier 4 Ore Processing"

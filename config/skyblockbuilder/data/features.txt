@@ -2,7 +2,6 @@ actuallyadditions:canola_patch
 actuallyadditions:coffee_patch
 actuallyadditions:flax_patch
 actuallyadditions:ore_black_quartz
-actuallyadditions:rice_patch
 allthemodium:allthemodium_ore
 allthemodium:ancient_tree
 allthemodium:cave_vine
@@ -43,21 +42,15 @@ apotheosis:boss_dungeon
 apotheosis:boss_dungeon_2
 apotheosis:rogue_spawner
 ars_elemental:blackstone_rock
-ars_elemental:cave_source_vines
-ars_elemental:cave_vexing_tree
-ars_elemental:configured_cave_lights
 ars_elemental:flashing_tree_sapling
 ars_elemental:natural_flashing_tree
-ars_elemental:ore_sourcestone
 ars_elemental:pools_with_drip
 ars_elemental:quartz_rock
 ars_elemental:random_common_flashing
 ars_elemental:random_simple_flashing
-ars_elemental:short_vexing_tree
 ars_elemental:single_blossom
 ars_elemental:single_sparkflower
 ars_elemental:single_torchflower
-ars_elemental:sourcestone_formation
 ars_nouveau:blazing_tree
 ars_nouveau:cascading_tree
 ars_nouveau:flourishing_tree
@@ -103,7 +96,6 @@ forbidden_arcanus:ore_darkstone
 forbidden_arcanus:ore_rune
 forbidden_arcanus:ore_rune_lower
 forbidden_arcanus:ore_stella_arcanum
-geore:allthemodium_geode
 geore:aluminum_geode
 geore:black_quartz_geode
 geore:budding_ancient_debris
@@ -127,10 +119,8 @@ geore:silver_geode
 geore:tin_geode
 geore:topaz_geode
 geore:tungsten_geode
-geore:unobtainium_geode
 geore:uraninite_geode
 geore:uranium_geode
-geore:vibranium_geode
 geore:zinc_geode
 immersiveengineering:bauxite
 immersiveengineering:deep_nickel
@@ -360,6 +350,7 @@ minecraft:warped_fungus_planted
 minecraft:weeping_vines
 modern_industrialization:deepslate_ore_generator_antimony
 modern_industrialization:deepslate_ore_generator_bauxite
+modern_industrialization:deepslate_ore_generator_iridium
 modern_industrialization:deepslate_ore_generator_lead
 modern_industrialization:deepslate_ore_generator_lignite_coal
 modern_industrialization:deepslate_ore_generator_monazite
@@ -370,6 +361,7 @@ modern_industrialization:deepslate_ore_generator_tungsten
 modern_industrialization:deepslate_ore_generator_uranium
 modern_industrialization:ore_generator_antimony
 modern_industrialization:ore_generator_bauxite
+modern_industrialization:ore_generator_iridium
 modern_industrialization:ore_generator_lead
 modern_industrialization:ore_generator_lignite_coal
 modern_industrialization:ore_generator_monazite

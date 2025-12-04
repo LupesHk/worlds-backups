@@ -47,3 +47,5 @@
 	traitsOnVanillaCrops = true
 	#Spawn productive farming flowers when using bonemeal on grass blocks
 	spawnFlowersWithBonemeal = true
+	#Seeds can be obtained from farmer villager trades
+	villagersTradeSeeds = true

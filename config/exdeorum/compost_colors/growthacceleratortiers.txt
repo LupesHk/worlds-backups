@@ -1,2 +1,0 @@
-// Compost colors for growthacceleratortiers. You may add your own colors, change existing ones, or remove colors that aren't needed.
-directional_modifier, #6b80

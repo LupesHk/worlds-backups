@@ -197,6 +197,11 @@ ServerEvents.recipes((allthemods) => {
   //Charcoal and Coal
   allthemods.remove({ id: "minecraft:coal_block" })
   allthemods
+    .shaped("minecraft:coal_block", ["AAA", "AAA", "AAA"], {
+      A: "minecraft:coal"
+    })
+    .id("minecraft:coal_block")
+  allthemods
     .shaped("minecraft:coal_block", ["AAA", "ABA", "AAA"], {
       A: "#minecraft:coals",
       B: "minecraft:coal"

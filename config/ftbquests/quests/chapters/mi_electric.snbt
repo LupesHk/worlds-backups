@@ -145,7 +145,7 @@
 			y: -3.5d
 		}
 		{
-			dependencies: ["103728F2BAD5AE84"]
+			dependencies: ["1745124F83D033B9"]
 			id: "3B9D9CB589DB2003"
 			tasks: [{
 				id: "12433760FD40CB3A"
@@ -274,7 +274,7 @@
 			y: -8.0d
 		}
 		{
-			dependencies: ["0903F0D8642449B7"]
+			dependencies: ["103728F2BAD5AE84"]
 			id: "162807D14C173CB4"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -291,7 +291,7 @@
 			y: -15.0d
 		}
 		{
-			dependencies: ["0903F0D8642449B7"]
+			dependencies: ["103728F2BAD5AE84"]
 			id: "7E3B19796870C2B1"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -308,7 +308,7 @@
 			y: -15.0d
 		}
 		{
-			dependencies: ["0903F0D8642449B7"]
+			dependencies: ["103728F2BAD5AE84"]
 			id: "6A25ED4059E224D2"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -325,7 +325,7 @@
 			y: -16.5d
 		}
 		{
-			dependencies: ["0903F0D8642449B7"]
+			dependencies: ["103728F2BAD5AE84"]
 			id: "3A03852E282DAA4D"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -477,7 +477,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["1745124F83D033B9"]
+			dependencies: ["0903F0D8642449B7"]
 			id: "103728F2BAD5AE84"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -503,7 +503,7 @@
 				}
 			]
 			x: 0.0d
-			y: -6.0d
+			y: -16.5d
 		}
 		{
 			dependencies: [
@@ -628,7 +628,7 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["0903F0D8642449B7"]
+			dependencies: ["103728F2BAD5AE84"]
 			icon: {
 				id: "modern_industrialization:vacuum_freezer"
 			}
@@ -681,7 +681,7 @@
 			y: -18.0d
 		}
 		{
-			dependencies: ["0903F0D8642449B7"]
+			dependencies: ["103728F2BAD5AE84"]
 			id: "5B50AC47957F0CD7"
 			rewards: [{
 				exclude_from_claim_all: true
